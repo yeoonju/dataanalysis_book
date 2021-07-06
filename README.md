@@ -1,2 +1,2 @@
-# dataanalysis_book-
+# dataanalysis_book
 '파이썬머신러닝판다스데이터분석' 이라는 책을 실습해본 내용을 정리한 것입니다
